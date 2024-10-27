@@ -1,0 +1,72 @@
+[
+  {
+    "temperatura": 10.4,
+    "umidade": 40.3,
+    "pressao": 107.1,
+    "lux": 10.4,
+    "timestamp": "2024-10-27 01:36:29"
+  },
+  {
+    "temperatura": 10.4,
+    "umidade": 40.3,
+    "pressao": 107.1,
+    "lux": 10.4,
+    "timestamp": "2024-10-27 01:36:35"
+  },
+  {
+    "temperatura": 10.4,
+    "umidade": 40.3,
+    "pressao": 107.1,
+    "lux": 10.4,
+    "timestamp": "2024-10-27 01:36:40"
+  },
+  {
+    "temperatura": 10.4,
+    "umidade": 40.3,
+    "pressao": 107.1,
+    "lux": 10.4,
+    "timestamp": "2024-10-27 01:36:45"
+  },
+  {
+    "temperatura": 10.4,
+    "umidade": 40.3,
+    "pressao": 107.1,
+    "lux": 10.4,
+    "timestamp": "2024-10-27 01:36:51"
+  },
+  {
+    "temperatura": 10.4,
+    "umidade": 40.3,
+    "pressao": 107.1,
+    "lux": 10.4,
+    "timestamp": "2024-10-27 01:36:57"
+  },
+  {
+    "temperatura": 10.4,
+    "umidade": 40.3,
+    "pressao": 107.1,
+    "lux": 10.4,
+    "timestamp": "2024-10-27 01:37:02"
+  },
+  {
+    "temperatura": 10.4,
+    "umidade": 40.3,
+    "pressao": 107.1,
+    "lux": 10.4,
+    "timestamp": "2024-10-27 01:37:07"
+  },
+  {
+    "temperatura": 10.4,
+    "umidade": 40.3,
+    "pressao": 107.1,
+    "lux": 10.4,
+    "timestamp": "2024-10-27 01:37:13"
+  },
+  {
+    "temperatura": 10.4,
+    "umidade": 40.3,
+    "pressao": 107.1,
+    "lux": 10.4,
+    "timestamp": "2024-10-27 01:37:18"
+  }
+]
